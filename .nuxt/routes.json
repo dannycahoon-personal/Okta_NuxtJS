@@ -1,0 +1,23 @@
+[
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "/Users/dcahoon/Documents/GitHub/Okta/okta-vue-nuxt-example-master/Okta_NuxtJS/pages/dashboard.vue",
+    "chunkName": "pages/dashboard",
+    "_name": "_168089fe"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/dcahoon/Documents/GitHub/Okta/okta-vue-nuxt-example-master/Okta_NuxtJS/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_34317fd6"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/dcahoon/Documents/GitHub/Okta/okta-vue-nuxt-example-master/Okta_NuxtJS/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6a89dcbf"
+  }
+]
